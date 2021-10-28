@@ -1,0 +1,11 @@
+<map id="hebench::TestHarness::BenchmarkOffline" name="hebench::TestHarness::BenchmarkOffline">
+<area shape="rect" id="node1" title="Base class for workload benchmarks in the offline category." alt="" coords="1124,107,1279,148"/>
+<area shape="rect" id="node2" href="$classhebench_1_1TestHarness_1_1PartialBenchmarkCategory.html" title=" " alt="" coords="888,107,1075,148"/>
+<area shape="rect" id="node3" href="$classhebench_1_1TestHarness_1_1PartialBenchmark.html" title="Base class for benchmarks." alt="" coords="684,107,839,148"/>
+<area shape="rect" id="node4" href="$classhebench_1_1TestHarness_1_1IBenchmark.html" title="Interface for benchmarks." alt="" coords="289,5,444,47"/>
+<area shape="rect" id="node5" href="$classhebench_1_1TestHarness_1_1IBenchmarkDescription.html#structhebench_1_1TestHarness_1_1IBenchmarkDescription_1_1BenchmarkConfig" title="Provides configuration for a benchmark creation." alt="" coords="283,70,450,126"/>
+<area shape="rect" id="node6" href="$namespacehebench_1_1APIBridge.html#structhebench_1_1APIBridge_1_1BenchmarkDescriptor" title="Defines a benchmark test." alt="" coords="289,149,445,191"/>
+<area shape="rect" id="node7" href="$namespacehebench_1_1APIBridge.html#unionhebench_1_1APIBridge_1_1CategoryParams" title="Specifies parameters for a category." alt="" coords="5,149,144,191"/>
+<area shape="rect" id="node8" title=" " alt="" coords="265,215,468,256"/>
+<area shape="rect" id="node9" href="$namespacehebench_1_1APIBridge.html#structhebench_1_1APIBridge_1_1WorkloadParam" title="Defines a single workload parameter." alt="" coords="5,215,144,256"/>
+</map>

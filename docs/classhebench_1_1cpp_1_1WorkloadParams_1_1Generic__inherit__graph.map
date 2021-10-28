@@ -1,0 +1,5 @@
+<map id="hebench::cpp::WorkloadParams::Generic" name="hebench::cpp::WorkloadParams::Generic">
+<area shape="rect" id="node1" title="Wrapper around the flexible workload parameters." alt="" coords="5,39,213,80"/>
+<area shape="rect" id="node2" href="$classhebench_1_1cpp_1_1WorkloadParams_1_1MatrixMultiply.html" title=" " alt="" coords="261,5,469,47"/>
+<area shape="rect" id="node3" href="$classhebench_1_1cpp_1_1WorkloadParams_1_1VectorSize.html" title=" " alt="" coords="261,71,469,112"/>
+</map>

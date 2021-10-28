@@ -1,0 +1,14 @@
+<map id="hebench_benchmark_latency.h" name="hebench_benchmark_latency.h">
+<area shape="rect" id="node1" title=" " alt="" coords="503,5,705,32"/>
+<area shape="rect" id="node2" href="$hebench__benchmark__latency_8cpp.html" title=" " alt="" coords="5,80,221,107"/>
+<area shape="rect" id="node3" href="$hebench__dotproduct__l_8h.html" title=" " alt="" coords="245,80,405,107"/>
+<area shape="rect" id="node5" href="$hebench__eltwiseadd__l_8h.html" title=" " alt="" coords="430,80,591,107"/>
+<area shape="rect" id="node7" href="$hebench__eltwisemult__l_8h.html" title=" " alt="" coords="616,80,781,107"/>
+<area shape="rect" id="node9" href="$hebench__logreg__l_8h.html" title=" " alt="" coords="806,80,941,107"/>
+<area shape="rect" id="node11" href="$hebench__matmult__l_8h.html" title=" " alt="" coords="971,80,1117,107"/>
+<area shape="rect" id="node4" href="$hebench__dotproduct__l_8cpp.html" title=" " alt="" coords="256,155,395,196"/>
+<area shape="rect" id="node6" href="$hebench__eltwiseadd__l_8cpp.html" title=" " alt="" coords="441,155,581,196"/>
+<area shape="rect" id="node8" href="$hebench__eltwisemult__l_8cpp.html" title=" " alt="" coords="627,155,771,196"/>
+<area shape="rect" id="node10" href="$hebench__logreg__l_8cpp.html" title=" " alt="" coords="797,162,945,189"/>
+<area shape="rect" id="node12" href="$hebench__matmult__l_8cpp.html" title=" " alt="" coords="969,162,1129,189"/>
+</map>
